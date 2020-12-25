@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=true&icon_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=true&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
-
+title_color - Card's title color (hex color)
+text_color - Body text color (hex color)
+icon_color - Icons color if available (hex color)
+bg_color - Card's background color (hex color) or a gradient in the form of angle,start,end
+hide_border - Hides the card's border (boolean)
 
 <!--
 **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

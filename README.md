@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/kariSpace">
-  <img align="center" height="150px" rc="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=false&icon_color=58a6ff&title_color=58a6ff" />
+  <img align="center"  rc="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
 </a>
 <a href="https://github.com/kariSpace">
-  <img align="center"  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=false&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=true&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117&layout=compact" />
 </a>
 
 

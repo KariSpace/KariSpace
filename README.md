@@ -1,7 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/kariSpace">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true&icon_color=909198&title_color=58a6ff" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=00000000&show_icons=true&text_color=hide_border=true&icon_color=909198&title_color=58a6ff" />
 </a>
+
+
 
 
 
@@ -13,6 +15,9 @@
 - 📫 How to reach me: https://t.me/kaript
 - 😄 Pronouns: K-A-R-I (like sause)
 - ⚡ Fun fact: Space smells like seared steak
+
+
+
 
 <a href="https://github.com/kariSpace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=true&icon_color=909198&title_color=58a6ff&bg_color=0d1117&layout=compact" />

@@ -1,12 +1,7 @@
 ### Hi there 👋
 <a href="https://github.com/kariSpace">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=00000000&show_icons=true&text_color=hide_border=true&icon_color=909198&title_color=58a6ff" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&bg_color=0d1117&show_icons=true&text_color=hide_border=true&icon_color=909198&title_color=58a6ff" />
 </a>
-
-
-
-
-
 
 <!-- **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 - 🔭 I’m currently working on chatbots

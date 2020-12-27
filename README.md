@@ -2,6 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KariSpace&theme=tokyonight&show_icons=true&hide_border=true&icon_color=58a6ff&title_color=58a6ff)](https://github.com/kariSpace)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

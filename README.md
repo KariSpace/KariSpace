@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Kari👋
 ### I'm Strong Junior chatbots developer, Middle Corezoid developer
 
 <a href="https://github.com/kariSpace">

@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Strong Junior chatbots developer, Middle Corezoid developer
+
 <a href="https://github.com/kariSpace">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=KariSpace&theme=github_dark&bg_color=0d1117&show_icons=true&text_color=d4d4d4&hide_border=true&icon_color=8b949e&title_color=58a6ff" />
 </a>

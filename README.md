@@ -11,12 +11,12 @@
 </a>
 
 <!-- **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
-- 🔭 I’m currently working on https://github.com/KariSpace/dark-chome-extension
-- 🌱 I’m currently learning Node-RED, JS<!--- 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about chatbots 
-- 📫 How to reach me: https://t.me/kaript
-- 😄 Pronouns: K-A-R-I (like sause)
-- ⚡ Fun fact: Space smells like seared steak
+<!--- - 🔭  I’m currently working on https://github.com/KariSpace/dark-chome-extension -->
+- 🌱  I’m currently learning Node-RED, JS<!--- 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... -->
+- 💬  Ask me about chatbots 
+- 📫  How to reach me: https://t.me/your505error
+- 😄  Pronouns: K-A-R-I (like sause)
+- ⚡  Fun fact: Space smells like seared steak
 
 
 

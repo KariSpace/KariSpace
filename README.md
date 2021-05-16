@@ -3,7 +3,8 @@
 
 ### 🏆 Achievements:
 - Middle Corezoid developer
-- Strong Junior chatbots developer
+- Сhatbots developer
+- BPM Developer
 
 
 <a href="https://github.com/kariSpace">
@@ -14,7 +15,9 @@
 <!--- - 🔭  I’m currently working on https://github.com/KariSpace/dark-chome-extension -->
 - 🌱  I’m currently learning Node-RED, JS<!--- 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... -->
 - 💬  Ask me about chatbots 
-- 📫  How to reach me: https://t.me/your505error
+- 📫  How to reach me: 
+- - Telegram: https://t.me/your505error
+- - Linkedin : https://www.linkedin.com/in/karina-pivtorak/
 - 😄  Pronouns: K-A-R-I (like sause)
 - ⚡  Fun fact: Space smells like seared steak
 

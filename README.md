@@ -3,7 +3,8 @@
 
 ### 🏆 Achievements:
 - Middle Corezoid developer
-- Сhatbots developer
+- Node-RED Developer
+- Сhatbots Developer
 - BPM Developer
 
 

@@ -3,9 +3,10 @@
 
 ### 🏆 Achievements:
 - Middle Corezoid developer
+- BPM Developer
 - Node-RED Developer
 - Сhatbots Developer
-- BPM Developer
+
 
 
 <a href="https://github.com/kariSpace">
@@ -14,7 +15,7 @@
 
 <!-- **KariSpace/KariSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 <!--- - 🔭  I’m currently working on https://github.com/KariSpace/dark-chome-extension -->
-- 🌱  I’m currently learning Node-RED, JS<!--- 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... -->
+- 🌱  I’m currently learning Node-js, Python<!--- 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... -->
 - 💬  Ask me about chatbots 
 - 📫  How to reach me: 
 - - Telegram: https://t.me/your505error

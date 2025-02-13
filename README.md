@@ -6,10 +6,9 @@ Work account: https://github.com/KarinaPivt
 
 #### About me :
   <a href="https://www.linkedin.com/in/karina-pivtorak/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 3 years of commercial experience as a Low-Code developer
-- 2  years of commercial experience as a Backend (Fullstack) developer
-- Certificated Strong Middle Corezoid developer
-- Networking and Internet Technologies Bachelor's degree
+- 4  years of commercial experience as a Backend (Fullstack) developer
+- Certificated Strong Middle Corezoid developer in the past
+- Networking and Internet Technologies Bachelor's degree 
 - I made video tutorials on network technologies (CCNA 1-4) for YouTube during the 1-2 years of university (but I won’t show them to you) 
 - Сhatbots Ninja 
 
